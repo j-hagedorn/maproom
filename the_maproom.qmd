@@ -12,8 +12,6 @@ editor: visual
 
 -   [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
 
--   
-
 ### Tutorials/Books for Spatial Analysis with R
 
 -   [Spatial Data Science](https://r-spatial.org/book/) With Applications in R
